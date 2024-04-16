@@ -1,0 +1,9 @@
+#container{
+    background-color: aqua;
+   border-bottom: 10px solid green;
+
+    width: 50%;
+}
+#title{
+    color: red;
+}
