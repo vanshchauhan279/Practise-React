@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["App.css"],"sourcesContent":["#container{\r\n    background-color: aqua;\r\n   border-bottom: 10px solid green;\r\n\r\n    width: 50%;\r\n}\r\n#title{\r\n    color: red;\r\n}\r\n"],"names":[],"version":3,"file":"index.e6b5c606.css.map","sourceRoot":"/__parcel_source_root/"}

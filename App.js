@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const heading1= React.createElement("h1",{
     id: "title",
     className: "class"
@@ -7,3 +10,6 @@ const heading1= React.createElement("h1",{
  console.log(container);
  const root = ReactDOM.createRoot(document.getElementById("root"));
  root.render(container);
+
+//  all bundlers minified the code , clear the console , lots of optimization
+// parcel , vite 
